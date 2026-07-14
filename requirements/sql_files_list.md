@@ -1,0 +1,12 @@
+```text
+01_active_customer_list.sql
+02_category_works_count.sql
+03_monthly_revenue_report.sql
+04_orders_no_payment_customers.sql
+05_top_employee_by_store.sql
+06_top10_rented_works_revenue.sql
+07_store_avg_order_cycle.sql
+08_all_category_customers.sql
+09_customer_cumulative_consumption.sql
+10_unavailable_inventory_all_stores.sql
+```
