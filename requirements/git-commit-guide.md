@@ -25,7 +25,7 @@
 
 1. **一个提交只做一件事** — 改 SQL 就只 add SQL 文件，改文档就只 add 文档文件
 2. **描述清楚做了什么** — 不要写 `update file` / `fix bug`
-3. **过去式描述**：`feat: add`、`refactor: improve`、`fix: correct`
+3. **祈使句（命令式）**：`feat: add`、`refactor: improve`、`fix: correct` — 就像在给代码下指令
 
 ## 修改流程
 
