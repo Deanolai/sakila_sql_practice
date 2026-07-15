@@ -1,8 +1,6 @@
---01_active_customer_list
+-- 01_active_customer_list
 -- v1  [2026-07-15] submitted version
 -- v2  [2026-07-15] refine: CONCAT full name, table alias, code formatting
-
-use sakila;
 
 select
     c.customer_id,
